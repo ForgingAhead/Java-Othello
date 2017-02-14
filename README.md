@@ -1,7 +1,7 @@
 # Java-Othello
 A Java implementation for the game Othello. You can play it with the computer! 
 Different difficulty levels are devised based on MiniMax.
-
+This is an assignment I did for my Artifical Intelligence module in 2011.
 To play this game, go to the directory where you put those source files:
 
 1. Compile:
